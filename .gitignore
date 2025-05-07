@@ -1,0 +1,6 @@
+# Ignora a pasta do venv
+venv/
+
+# Ignora arquivos do sistema operacional (geralmente no Windows)
+Thumbs.db
+Desktop.ini
