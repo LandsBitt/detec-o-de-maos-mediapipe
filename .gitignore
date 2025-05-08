@@ -1,6 +1,10 @@
-# Ignora a pasta do venv
+
 venv/
 
-# Ignora arquivos do sistema operacional (geralmente no Windows)
+build/
+dist/
+
 Thumbs.db
 Desktop.ini
+
+*.spec

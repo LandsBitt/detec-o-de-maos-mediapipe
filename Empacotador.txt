@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import mediapipe --hidden-import cv2 --hidden-import pyautogui --noconsole --add-data "venv\Lib\site-packages\mediapipe\modules;mediapipe\modules" --icon=seu_icone.ico main.py
